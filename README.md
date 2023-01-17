@@ -5,9 +5,9 @@ This project uses several data analysis techniques such as exploratory data anal
 
 The Jupyter Notebook contains detailed explanations and comments for every step of the analysis. Feel free to modify or extend the project as you wish.
 
-=========================================
-Dataset characteristics
-=========================================	
+
+### Dataset characteristics
+	
 day.csv have the following fields:
 	
 	- instant: record index
